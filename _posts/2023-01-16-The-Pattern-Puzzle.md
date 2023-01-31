@@ -47,7 +47,7 @@ On the top of the screen there are 7 buttons,
 - New game: Spawns a new random grid.
 - Restart game: Resets all progress.
 - Undo move: Cancels your most recent move.
-- Redo move: Re-does a canceled move.
+- Redo move: Re-does a cancel     ed move.
 - Solve game: Displays the completed grid.
 
 ---
