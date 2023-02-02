@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weeks 1-4 in review"
+title:  "Weeks 1-3 in review"
 date:   2023-01-29 18:00:27 -0800
 categories: Reports
 ---
@@ -31,4 +31,12 @@ And this basically conluded my first week
 
 ### Week 2
 
-The next sessiosn were all about UI and UX
+The next sessiosn were all about UI and UX. I go more in depth in the another post, Learning about User Experience. But when designing these charts and interfaces, I always thought of what the plyaer or customer would think. If you are the one desiging the game, obviosuly, you know exactly whats going on. So even the ommisison of a little detail may seem inconsequential to you, but to a random player it can really confuse them. Assumptions that the player would know somethign would destroy the user experience. Games should really be as simple and intuitive as possible. 
+
+This week is where I started to devleop ideas for a game that enforces brain and memory activity. Throughout the brainstorming, I had to think about if I was playing this would this game be too hard, or too easy. I also thought about how to make the game look fun and keep players still interseted in the game after playing it many times. It was really tough to come up with ideas for a good game.
+
+---
+
+### Week 3
+
+This was my favroite week out of all of them. Here we both designed the icon for the game and also how it would look while you were palying it. I noticed that my ideas were getting better (to me at least), and i felt more satisfied with what i was desinging and creating
