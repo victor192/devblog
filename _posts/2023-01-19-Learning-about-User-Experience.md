@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning about User Experience"
-date:   2023-01-16 18:00:28 -0800
+date:   2023-01-19 18:00:28 -0800
 categories: Skills
 ---
 
